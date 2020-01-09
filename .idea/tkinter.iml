@@ -8,6 +8,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Classes" />
     <orderEntry type="module" module-name="GitTest" />
-    <orderEntry type="module" module-name="test" />
+    <orderEntry type="module" module-name="microHHGUI" />
   </component>
 </module>
